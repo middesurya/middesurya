@@ -20,7 +20,7 @@
 
 ## 🧠 About Me
 
-> **AI/ML Engineer** specializing in **Large Language Models**, **Agentic AI**, and **RAG Systems** — based in Pflugerville, TX
+> **AI/ML Engineer** specializing in **Large Language Models**, **Agentic AI**, and **RAG Systems** — based in Dallas, TX
 
 - 🔭 Building production LLM applications with **multi-agent orchestration**
 - 🌱 Currently exploring: **MCP (Model Context Protocol)**, **LangGraph**, **Quantum ML**
