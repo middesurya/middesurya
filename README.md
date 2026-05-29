@@ -2,7 +2,7 @@
 
 # Hi there, I'm Surya Midde 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%7C+LLM+Specialist;Building+Agentic+AI+Systems;LangGraph+%7C+MCP+%7C+RAG+Expert;Open+to+AI+Engineer+%2F+LLM+Platform+Roles)](https://git.io/typing-svg)
+### AI/ML Engineer · LLM Specialist · Agentic AI Builder
 
 <p>
   <a href="https://linkedin.com/in/middesurya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -10,6 +10,9 @@
   <a href="https://mcp-directory-pi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=middesurya&style=for-the-badge&color=58A6FF" />
 </p>
+
+![Open to Connections](https://img.shields.io/badge/🤝%20Open%20to%20Connections-Let's%20Connect!-brightgreen?style=for-the-badge)
+![Open to Work](https://img.shields.io/badge/💼%20Open%20to%20Work-AI%20Engineer%20%2F%20LLM%20Roles-blue?style=for-the-badge)
 
 </div>
 
@@ -22,6 +25,7 @@
 - 🔭 Building production LLM applications with **multi-agent orchestration**
 - 🌱 Currently exploring: **MCP (Model Context Protocol)**, **LangGraph**, **Quantum ML**
 - 💼 Open to **AI Engineer** / **LLM Platform Engineer** roles
+- 🤝 **Open to connections** — feel free to reach out on [LinkedIn](https://linkedin.com/in/middesurya)!
 - 📍 Pflugerville, TX
 
 ---
@@ -89,24 +93,22 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=middesurya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=middesurya&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=middesurya&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=middesurya&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🤝 Let's Connect!
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=middesurya&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+I'm always open to interesting conversations, collaborations, and opportunities.
+**Don't hesitate to reach out — I'd love to connect!**
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/middesurya)
+[![Email](https://img.shields.io/badge/Send%20me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:middesurya@gmail.com)
+[![Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mcp-directory-pi.vercel.app)
 
 </div>
 
