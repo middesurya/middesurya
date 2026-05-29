@@ -1,118 +1,121 @@
-# Hi, I'm Surya Midde 👋
+<div align="center">
 
-**AI/ML Engineer** specializing in **Large Language Models**, **Agentic AI**, and **RAG Systems**
+# Hi there, I'm Surya Midde 👋
 
-🔭 Building production LLM applications with multi-agent orchestration  
-🌱 Currently exploring: MCP (Model Context Protocol), LangGraph, Quantum ML  
-💼 Open to **AI Engineer / LLM Platform Engineer** roles  
-📍 Pflugerville, TX
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%7C+LLM+Specialist;Building+Agentic+AI+Systems;LangGraph+%7C+MCP+%7C+RAG+Expert;Open+to+AI+Engineer+%2F+LLM+Platform+Roles)](https://git.io/typing-svg)
 
----
+<p>
+  <a href="https://linkedin.com/in/middesurya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:middesurya@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://mcp-directory-pi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=middesurya&style=for-the-badge&color=58A6FF" />
+</p>
 
-## 🚀 Featured Projects
-
-### 🆕 [MCP Directory](https://github.com/middesurya/mcp-directory) | [Live Demo](https://mcp-directory-pi.vercel.app)
-**The largest directory of MCP servers on the internet** — 181 servers across 22 categories with a unique one-click Config Generator for Claude Desktop, Cursor, Windsurf, Cline & VS Code.
-
-**Tech:** Next.js 15 • TypeScript • SQLite • Drizzle ORM • Tailwind CSS • Vercel
+</div>
 
 ---
 
-### [Social Network Bottleneck Detector](https://github.com/middesurya/social-network-bottleneck-detector) | [Live Demo](https://frontend-sigma-eight-20.vercel.app)
-Graph analytics platform using Neo4j to detect critical bottleneck nodes in social networks with LLM-powered natural language queries.
+## 🧠 About Me
 
-**Tech:** FastAPI • Neo4j Aura • React • Cytoscape.js • LangChain • GPT-4
+> **AI/ML Engineer** specializing in **Large Language Models**, **Agentic AI**, and **RAG Systems** — based in Pflugerville, TX
 
----
-
-### [LLM Council](https://github.com/middesurya/llm-council) | [Live Demo](https://llm-council-gules.vercel.app)
-Multi-Expert AI Consensus System orchestrating GPT-4, Claude, and Gemini through a 3-stage council process with domain-specific NLP (Healthcare ICD-10, Finance GAAP/IFRS)
-
-**Tech:** Next.js 15 • TypeScript • PostgreSQL • Redis • OpenAI/Anthropic/Google APIs
-
----
-
-### [NeverAFK.ai](https://github.com/middesurya/NeverAFK.ai) | [Live Demo](https://never-afk-ai-lngm.vercel.app)
-RAG-Powered Creator Support SaaS with LangGraph multi-agent pipeline for automated student support
-
-**Tech:** Next.js 15 • FastAPI • Pinecone • GPT-4 • OpenAI Whisper • Supabase
-
----
-
-### [The Screening Room](https://github.com/middesurya/the-screening-room)
-AI Critics Only — A social platform where AI agents debate movies while humans spectate and vote
-
-**Tech:** Next.js • TypeScript • OpenAI • Anthropic • Tailwind CSS
-
----
-
-### [MetalQuery](https://github.com/middesurya/metalquery)
-Enterprise NLP-to-SQL chatbot with multimodal RAG for manufacturing KPI analysis. Features 12-layer security architecture with RBAC, jailbreak detection, and prompt injection prevention.
-
-**Tech:** FastAPI • Django • React • PostgreSQL • Groq Llama • ChromaDB
-
----
-
-### [EchoMirror](https://github.com/middesurya/EchoMirror)
-AI-Powered Self-Reflection Journal with on-device ML for mood analysis — Flutter/Riverpod/ML Kit
-
-**Tech:** Flutter • Dart • Riverpod • ML Kit • Firebase
-
----
-
-### [ChainMind](https://github.com/middesurya/ChainMind)
-AI-Powered DeFi Intelligence Platform — Making DeFi risk transparent through AI
-
-**Tech:** TypeScript • Next.js • Web3.js • LangChain • OpenAI
-
----
-
-### [MCP-Gen](https://github.com/middesurya/Mcp_Gen)
-CLI tool to scaffold Model Context Protocol (MCP) servers for Agentic AI applications
-
-**Tech:** TypeScript • Node.js • MCP Protocol
-
----
-
-### [ÆTHER-Grid](https://github.com/middesurya/Atheos)
-Multi-agent system for intelligent energy grid management with quantum-enhanced optimization (EU AI Act compliant)
-
-**Tech:** Python • PyTorch • Qiskit • Multi-Agent Systems
-
----
-
-### [Udemy Notes Extractor](https://github.com/middesurya/udemy-notes-extractor)
-Python CLI that extracts Udemy course transcripts and generates structured study notes using Claude AI
-
-**Tech:** Python • Claude API • Markdown
+- 🔭 Building production LLM applications with **multi-agent orchestration**
+- 🌱 Currently exploring: **MCP (Model Context Protocol)**, **LangGraph**, **Quantum ML**
+- 💼 Open to **AI Engineer** / **LLM Platform Engineer** roles
+- 📍 Pflugerville, TX
 
 ---
 
 ## 🛠️ Tech Stack
 
-**LLMs:** GPT-4 • Claude 3.5 • Gemini • Llama 3 • Mistral • Fine-tuning (LoRA, QLoRA)  
-**Agentic AI:** LangChain • LangGraph • MCP • CrewAI • Multi-Agent Systems  
-**RAG & Vectors:** Pinecone • ChromaDB • Neo4j • FAISS • Hybrid Search  
-**Backend:** Python • FastAPI • Django • Node.js • PostgreSQL • Redis  
-**Frontend:** React • Next.js • TypeScript • Tailwind CSS • Three.js  
-**Cloud:** AWS • Docker • Kubernetes • Vercel
+<div align="center">
+
+**LLMs & AI**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+**Vector DBs & RAG**
+
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🆕 **[MCP Directory](https://github.com/middesurya/mcp-directory)** — [Live Demo](https://mcp-directory-pi.vercel.app) | Largest directory of MCP servers (181 servers, 22 categories) with one-click Config Generator for Claude/Cursor/VS Code | Next.js 15 • TypeScript • SQLite • Drizzle ORM |
+| 🧠 **[LLM Council](https://github.com/middesurya/llm-council)** — [Live Demo](https://llm-council-gules.vercel.app) | Multi-Expert AI Consensus System orchestrating GPT-4, Claude & Gemini with domain-specific NLP | Next.js • TypeScript • PostgreSQL • Redis |
+| 🔍 **[MetalQuery](https://github.com/middesurya/metalquery)** | Enterprise NLP-to-SQL chatbot with multimodal RAG, 12-layer security (RBAC, jailbreak detection) | FastAPI • Django • React • PostgreSQL • Groq Llama |
+| 🎓 **[NeverAFK.ai](https://github.com/middesurya/NeverAFKai)** — [Live Demo](https://never-afk-ai-legm.vercel.app) | RAG-Powered Creator Support SaaS with LangGraph multi-agent pipeline | Next.js • FastAPI • Pinecone • GPT-4 |
+| 🌐 **[Social Network Bottleneck Detector](https://github.com/middesurya/social-network-bottleneck-detector)** | Graph analytics using Neo4j + LLM for bottleneck detection in social networks | FastAPI • Neo4j • React • LangChain |
+| ⚡ **[ÆTHER-Grid](https://github.com/middesurya/Neptune)** | Multi-agent intelligent energy grid management with quantum-enhanced optimization (EU AI Act compliant) | Python • PyTorch • Qiskit |
+| 🎬 **[The Screening Room](https://github.com/middesurya/the-screening-room)** | AI Critics Only — A social platform where AI agents debate movies | Next.js • OpenAI • Anthropic |
+| 🔧 **[MCP-Gen](https://github.com/middesurya/mcp-directory)** | CLI tool to scaffold MCP servers for Agentic AI applications | TypeScript • Node.js • MCP Protocol |
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=middesurya&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=middesurya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=middesurya&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=middesurya&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-## 📫 Connect
+## 🏆 GitHub Trophies
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surya-midde)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://neptune-rho.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:midde.snakumar123@gmail.com)
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=middesurya&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
-*Building the future of AI, one agent at a time* ✨
+<div align="center">
+
+*Building the future of AI, one agent at a time ✨*
+
+**🤖 LLMs • 🕸️ Agentic AI • 🔍 RAG • ⚡ MCP**
+
+</div>
