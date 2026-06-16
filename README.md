@@ -27,7 +27,7 @@
 - 🌱 Currently exploring: **MCP (Model Context Protocol)**, **LangGraph**, **Quantum ML**
 - 💼 Open to **AI Engineer** / **LLM Platform Engineer** roles
 - 🤝 **Open to connections** — feel free to reach out on [LinkedIn](https://linkedin.com/in/middesurya)!
-- 📍 Pflugerville, TX
+- 📍 Dallas, TX
 
 ---
 
